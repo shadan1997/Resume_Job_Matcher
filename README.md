@@ -42,12 +42,12 @@
         - Predict job categories for given descriptions.
 -   Libraries  : pandas, numpy, nltk, scikit-learn, pdfminer.six.
 
-[GitHub Repository] ( https://github.com/shadan1997/Resume_Job_Matcher/blob/main/task_resume_idf.ipynb)
+[GitHub Repository]( https://github.com/shadan1997/Resume_Job_Matcher/blob/main/task_resume_idf.ipynb)
 
   Approach 3: Applying Algorithm  
 -   Algorithm  : GradientBoostingClassifier.
 -   Accuracy  : 76%.
 
-[GitHub Repository] (https://github.com/shadan1997/Resume_Job_Matcher/blob/main/GradientBoostingClassifier_model_76.ipynb)
+[GitHub Repository](https://github.com/shadan1997/Resume_Job_Matcher/blob/main/GradientBoostingClassifier_model_76.ipynb)
 
 These approaches demonstrate text processing, classification, and matching techniques for resumes and job descriptions. Approach 1 focuses on cosine similarity, while Approach 2 uses TF-IDF and machine learning models for classification.
